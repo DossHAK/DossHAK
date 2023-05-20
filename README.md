@@ -1,3 +1,3 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/smGCEo5zsAXtK4bqAT/giphy.gif" width="100"/>
+  <img src="https://tenor.com/ru/view/watch_dogs2-watch_dogs-gif-7315148" width="100"/>
 </div>
