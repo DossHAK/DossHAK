@@ -1,5 +1,5 @@
 <style>
-  .content {
+  content {
     background: blue;
   }
 </style>
