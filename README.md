@@ -1,4 +1,4 @@
 <div align="center">
   <h1>Hi! I'm Vladislav!</h1>
-  <hr>
+  <h2>My skills</h2>
 </div>  
